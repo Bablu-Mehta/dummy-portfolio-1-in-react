@@ -39,7 +39,7 @@
 .right .top{
     grid-column: 1 / span 8;
     grid-row: 1;
-    padding-top: 20px;
+    padding-top: 20%;
     z-index: 6;
 }
 
